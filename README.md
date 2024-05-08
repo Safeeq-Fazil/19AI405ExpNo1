@@ -106,4 +106,4 @@ agent.print_status()
 
 ## RESULT:
 
-Thus, an AI agent is developed.
+Thus the Developing AI Agent with PEAS Description was implemented using python programming.
