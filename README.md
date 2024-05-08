@@ -101,7 +101,8 @@ agent.print_status()
 ```
 
 ## OUTPUT :
-![image](https://github.com/Safeeq-Fazil/19AI405ExpNo1/assets/118680361/aad6218a-d54e-45f4-8c15-cbe93133183b)
+![image](https://github.com/Safeeq-Fazil/19AI405ExpNo1/assets/118680361/e8084601-3c2b-401e-9a61-55c73e8e7972)
+
 
 ## RESULT:
 
